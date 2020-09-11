@@ -5,4 +5,4 @@
 ### [ Boston College](https://www.bc.edu/) 
 #### B.S., Environmental Geoscience & Economics, 2018 
 ### [Columbia University](https://www.columbia.edu/) 
-#### 1st year PhD student, Department of Earth & Environmental Science, 2020-present
+#### 1st year PhD student, Department of Earth & Environmental Science, 2020-
