@@ -53,7 +53,7 @@ Parnell-Turner, R., Briais, A., LeVay, L., **and the Expedition 395 Scientists**
 Bouchet M., Donner A., Grimmer M., **Jasper C.**, Krauss F., Legrain E. and Vera Polo P, 2024. The atypical interglacial of MIS 11c and the long-term change in interglacial intensity over the past 800 kyr. Past Global Changes Magazine 32(1) 55 2024.
 
 ## Sailing Experience                                                                                                                                       .
-June-Aug. 2023	International Ocean Discovery Program (IODP) Expedition 395: Reykjanes Mantle Convection and Climate, Sedimentologist 
+Summer 2023	[International Ocean Discovery Program (IODP) Expedition 395: Reykjanes Mantle Convection and Climate](https://iodp.tamu.edu/scienceops/expeditions/reykjanes_mantle_convection_and_climate.html), Sedimentologist 
 
 ## Teaching Experience                                                                                                                                   .
 Fall 2022	Graduate Teaching Assistant, Columbia University EESCUN1030: Oceanography 
