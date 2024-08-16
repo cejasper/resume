@@ -1,5 +1,5 @@
-## Claire E. Jasper
-*Welcome! please find an abbreviated version of my CV below*
+## Claire E. Jasper 
+*Welcome:wave: please find an abbreviated version of my CV below*
 
 5th Year Ph.D. Candidate
 
