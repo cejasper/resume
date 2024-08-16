@@ -1,5 +1,5 @@
 ## Claire E. Jasper 
-*Welcome:wave: please find an abbreviated version of my CV below*
+*Welcome :wave: please find an abbreviated version of my CV below*
 
 5th Year Ph.D. Candidate
 
@@ -62,5 +62,8 @@ Spring 2022	Graduate Teaching Assistant, Columbia University EESCW1009: Global W
 
 ## Research Interests
 Ice sheet evolution, orbital pacing, iceberg rafted debris (IRD), deep learning, convolutional neural networks
+
+## Hobbies 
+Running, cooking, traveling, and, of course, counting iceberg rafted debris under the microscrope
 ![me](IMG_3872.jpg)
 *My very last day on the historic JOIDES Resolution Drill Ship at the end of IODP Expedition 395*
