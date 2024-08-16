@@ -62,4 +62,5 @@ Spring 2022	Graduate Teaching Assistant, Columbia University EESCW1009: Global W
 
 ## Research Interests
 Ice sheet evolution, orbital pacing, iceberg rafted debris (IRD), deep learning, convolutional neural networks
-![me](IMG_2331.jpeg)
+![me](IMG_3872.jpg)
+*My very last day on the historic JOIDES Resolution Drill Ship at the end of IODP Expedition 395*
