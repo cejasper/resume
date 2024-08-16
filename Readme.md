@@ -2,13 +2,9 @@
 *Welcome! please find an abbreviated version of my CV below*
 
 4th Year Ph.D. Candidate
-
 Advisor: Maureen Raymo 
-
 Department of Earth and Environmental Sciences, Columbia University 
-
 Lamont-Doherty Earth Observatory (LDEO) 
-
 [My Columbia Webpage](https://people.climate.columbia.edu/users/profile/claire-elizabeth-jasper/) 
 
 ## Appointments                                                                                                                                              .
