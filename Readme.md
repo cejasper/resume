@@ -66,4 +66,5 @@ Ice sheet evolution, orbital pacing, iceberg rafted debris (IRD), deep learning,
 ## Hobbies 
 Running, cooking, traveling, and, of course, counting iceberg rafted debris under the microscrope
 ![me](IMG_3872.jpg)
-*My very last day on the historic JOIDES Resolution Drill Ship at the end of IODP Expedition 395*
+*My very last day on the legendary [JOIDES Resolution](https://joidesresolution.org/) Drill Ship at the end of IODP Expedition 395*
+Note: The NSF has ended its funding of the JOIDES Resolution, a major loss for paleoceanographers like myself. To learn more about this, click [here](https://www.nsf.gov/news/news_summ.jsp?cntn_id=306986&org=OCE)
