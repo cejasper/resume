@@ -3,25 +3,25 @@
 
 NSF Ocean Sciences Postdoctoral Research Fellow
 Advisor: Christina Ravelo
-Department of Earth and Planetary Sciences, UC Santa Cruz
+Ocean Sciences Department, UC Santa Cruz
 
-[My UCSC Webpage](https://ocean.ucsc.edu/people/postdoctoral-scholars/?directoryprofilecruzid=cejasper)
-[My Google Scholar](https://scholar.google.com/citations?user=sflHoNMAAAAJ&hl=en)
-[My Academic Website](https://sites.google.com/view/clairejasper/)
+[My Google Scholar](https://scholar.google.com/citations?user=sflHoNMAAAAJ&hl=en)  
+[My UCSC Webpage](https://ocean.ucsc.edu/people/postdoctoral-scholars/?directoryprofilecruzid=cejasper)  
+[My Academic Website](https://sites.google.com/view/clairejasper/)  
 
 ## Research Interests
 High-latitude paleoclimate, Paleoceanography, Ice-ocean interactions
 ### Areas of Focus 
 Ice sheet evolution, orbital pacing, iceberg rafted debris (IRD), North Atlantic ocean circulation, Antarctic Circumpolar Current, Mid-Pleistocene Transition, deep learning, scientific ocean drilling
 
-## Appointments                                                                                                                                              .
+## Appointments                                                                                                                                           
 2025 – present  NSF Ocean Sciences Postdoctoral Research Fellow, UC Santa Cruz
 2020 – 2025     Graduate Research Assistant, Columbia University
 2018 – 2020     Research Assistant, Lamont Doherty Core Repository
 Summer 2017     Undergraduate Research Intern, University of Colorado
 Summer 2016     Undergraduate Research Intern, Harvard University
 
-## Education                                                                                                                                                      .
+## Education                                                                                                                                                    
 2026    Ph.D., Columbia University, Earth and Environmental Sciences
 2024    M.Phil, Columbia University, Earth and Environmental Sciences
 2022    M.A., Columbia University, Earth and Environmental Sciences
