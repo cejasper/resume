@@ -1,9 +1,9 @@
 ## Claire E. Jasper
 *Welcome :wave: please find an abbreviated version of my CV below*
 
-NSF Ocean Sciences Postdoctoral Research Fellow
-Advisor: Christina Ravelo
-Ocean Sciences Department, UC Santa Cruz
+NSF Ocean Sciences Postdoctoral Research Fellow  
+Advisor: Christina Ravelo  
+Ocean Sciences Department, UC Santa Cruz  
 
 [My Google Scholar](https://scholar.google.com/citations?user=sflHoNMAAAAJ&hl=en)  
 [My UCSC Webpage](https://ocean.ucsc.edu/people/postdoctoral-scholars/?directoryprofilecruzid=cejasper)  
