@@ -49,7 +49,7 @@ Million-Year Record of Antarctic Iceberg Rafted Debris and Ice Sheet Evolution
 Quantified by Machine Learning. Paleoceanography and Paleoclimatology, 39(9),
 e2024PA004897.
 
-## Sailing Experience                                                                                                                                       .
+## Sailing Experience                                                                                                                                       
 Summer 2023    [International Ocean Discovery Program (IODP) Expedition 395: Reykjanes Mantle Convection and Climate](https://iodp.tamu.edu/scienceops/expeditions/reykjanes_mantle_convection_and_climate.html), Sedimentologist
 
 
